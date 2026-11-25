@@ -1,8 +1,8 @@
 # The Dog Ate My Homework: Funniest Excuse
 
-![Competition](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c.svg)
-![Rank](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/SRamadhan-07/makefun-dog-homework/rank.svg)
-![Reward](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/SRamadhan-07/makefun-dog-homework/reward.svg)
+[![Competition](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
+[![Rank](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/SRamadhan-07/makefun-dog-homework/rank.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
+[![Reward](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/SRamadhan-07/makefun-dog-homework/reward.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
 
 A Python program that writes one line to `/output/entry.txt`: the excuse a
 dog gives after being caught eating the homework. The dog pleads that the
